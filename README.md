@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/1042839582267428987/1042840348369625148/308426850_623670762723630_129748105148634594_n.jpg?width=395&height=413" alt="My Profile" width="200" height="200">
 </p>
 
-<h1 align="center">Hello fellow!</h1>
+<h1 align="center">Hello fellow! I'm Jayvee</h1>
 
 ## Field of Interests:  
 -My interest are in various fields especially in the Science and Technology.   
