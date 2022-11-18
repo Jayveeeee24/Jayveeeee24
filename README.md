@@ -1,4 +1,4 @@
-I'm a student, aspiring Software Engineer, has an addiction to coffee and lazy af.
+<p align = "center">I'm a student, aspiring Software Engineer, has an addiction to coffee and lazy af.</p>
 
 ## Field of Interests:  
 * My interest are in various fields especially in the Science and Technology.   
