@@ -11,4 +11,4 @@ You can reach me here on github by leaving a comment in any of my projects!
 * johnbernard.tinio@cvsu.edu.ph
 
 ## You can visit my portfolio here:
-https://jayveeportfolio.brizy.site/
+<a href="https://jayveeportfolio.brizy.site/" target="_blank">Jayvee Portfolio Website</a>
